@@ -30,6 +30,7 @@ namespace DI_test
             that then allows me to interchange my classes.   
         */
         public string themesg;
+        public int kjj;
         
         public void displaymesg()
         {
